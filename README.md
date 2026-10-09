@@ -1,2 +1,7 @@
 # Tugas-Robot-Industri
-Pengumpulan Tugas Robot Industri M6 Membuat program inverse kinematik
+Pengumpulan Tugas Robot Industri Membuat program inverse kinematik 
+Nama Anggota :
+Meyla Panglipuring Tias (23050874208)
+Khairul Anam Basri (23050874212)
+Firda Ananda Putri Aliansyah (23050874224)
+
